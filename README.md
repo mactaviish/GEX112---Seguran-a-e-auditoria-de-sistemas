@@ -1,1 +1,1 @@
-# GEX112---Seguran-a-e-auditoria-de-sistemas
+Repositório destinado às postagens da disciplina de **Segurança e auditoria de sistemas**
